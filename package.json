@@ -1,0 +1,17 @@
+{
+  "name": "pm2-remote-monit",
+  "version": "1.0.0",
+  "main": "pm2.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r sucrase/register pm2.js"
+  },
+  "dependencies": {
+    "pm2": "^5.3.1",
+    "socket.io-client": "^4.7.5",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "sucrase": "^3.35.0"
+  }
+}

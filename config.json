@@ -1,0 +1,8 @@
+{
+  "socket": {
+    "origin": "http://localhost:3000"
+  },
+  "process": {
+    "name": "teste"
+  }
+}
